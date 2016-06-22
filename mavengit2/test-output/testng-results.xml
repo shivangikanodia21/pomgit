@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="42" started-at="2016-06-22T09:57:08Z" finished-at="2016-06-22T09:57:08Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="42" started-at="2016-06-22T09:57:08Z" finished-at="2016-06-22T09:57:08Z">
+      <class name="returntruetest.test">
+        <test-method status="PASS" signature="truetest()[pri:0, instance:returntruetest.test@1bc6a36e]" name="truetest" duration-ms="19" started-at="2016-06-22T15:27:08Z" finished-at="2016-06-22T15:27:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- truetest -->
+      </class> <!-- returntruetest.test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
